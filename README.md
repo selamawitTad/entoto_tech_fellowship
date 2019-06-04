@@ -1,2 +1,2 @@
 # entoto_tech_fellowship
-Our first repository in GitHub
+My first repository in GitHub
