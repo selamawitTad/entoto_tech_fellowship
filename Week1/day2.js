@@ -19,11 +19,8 @@ else
 // else if ( temprature > 20 ){
 //   return ("it's warm outside")
 // }
-// else if ( temprature >=10 && temprature <= 20 ){
-//   return ("it's warm outside")
-// }
-//  else 
-//     return("it's good outside")
+//  else {
+//     return("it's nice outside")
 // }
 // console.log (weatherTemperature(12))
     
