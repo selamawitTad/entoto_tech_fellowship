@@ -1,5 +1,5 @@
 
-var weatherTemperature = 15
+var weatherTemperature = 40
 console.log(weatherTemperature)
 if ( weatherTemperature < 10 ){
   console.log("it's cold outside")
@@ -7,9 +7,9 @@ if ( weatherTemperature < 10 ){
 else if ( weatherTemperature > 20 ){
   console.log("it's warm outside")
 }
-else 
+else {
   console.log("it's nice outside")
-
+}
 
 
 //   function weatherTemperature( temprature ){
