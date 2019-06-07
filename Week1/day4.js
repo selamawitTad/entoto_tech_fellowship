@@ -1,27 +1,9 @@
- var book = {
- title: "DertoGada",
- author: "MrX",
- releaseDate: 1997,
-   }
- 
-console.log(book)  
-console.log(book.title) 
+//for (var i = 0; i <= 20; i++) {
+//     if (i % 2 === 0) {
+//         console.log(i + " is even ");
+//     } else {
+//         console.log(i + " is odd " );
+//     }
+// }
 
-var food = ["salad", "shiro", "firfir"]
-console.log(food)
-var i;
-
-for (i = 0; i<3; i++){
-  console.log (food[i])
- }
-      var count = 1;
-    while (count <= 10 ){
-      console.log(count);
-          count += 1;
-      
-    }
-
-
-             
-                   
 
